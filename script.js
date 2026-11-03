@@ -1,9 +1,4 @@
-<!-- ============ SCRIPTS ============ -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 
-<script>
 /* ------------------------------------------------------------------
    Map  —  Uttarkashi district, Uttarakhand
 ------------------------------------------------------------------ */
@@ -161,4 +156,4 @@ function generatePDF() {
 
 /* Keep the region label consistent on load */
 document.addEventListener('DOMContentLoaded', syncRegion);
-</script>
+
