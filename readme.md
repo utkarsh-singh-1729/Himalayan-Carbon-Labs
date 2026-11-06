@@ -1,7 +1,7 @@
 # Himalayan Carbon Labs
 #Hacktoberfest
 
-A satellite-based MRV (Measurement, Reporting, and Verification) dashboard designed to help Uttarakhand's farmers and Van Panchayats. 
+A satellite-based MRV dashboard designed to help Uttarakhand's farmers and Van Panchayats. 
 
 We built this during Hacktoberfest to solve a real problem: measuring forest biomass is expensive, but our open-source stack makes it accessible for rural communities.
 
@@ -10,7 +10,6 @@ We built this during Hacktoberfest to solve a real problem: measuring forest bio
 
 *   **Interactive Dashboard:** Real-time tracking of mapped area, estimated credits.
 *   **GIS Map Integration:** Leaflet.js map showing the pilot area boundaries in Uttarkashi.
-*   **Carbon Estimator:** A quick tool to calculate potential credits based on land area (Max 10,000 Ha).
 *   **AI Chat Assistant (Gemma 4):** A localized assistant that helps farmers understand carbon credit calculations and MRV processes in simple terms.
 *   **PDF Export:** One-click report generation for sharing data with stakeholders.
 
